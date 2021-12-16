@@ -2,9 +2,9 @@
 
 Hola, me llamo [Zuriel Martínez](https://www.instagram.com/zuurieeel?r=nametag) y soy estudiante de la carrera de Ciencias de la Computación.
 
-<p align=center>
-<p><img src="https://sotecdi.com/web/wp-content/uploads/2019/08/programador.gif" width="200px"></p>
-</p>
+<p><img align="center" src="https://sotecdi.com/web/wp-content/uploads/2019/08/programador.gif" width="200px"></p>
+
+----
 
 <p align=center>
   <div align=center>
