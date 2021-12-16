@@ -3,6 +3,10 @@
 Hola, me llamo [Zuriel Martínez](https://www.instagram.com/zuurieeel?r=nametag) y soy estudiante de la carrera de Ciencias de la Computación.
 
 <p align=center>
+<p><img src="https://sotecdi.com/web/wp-content/uploads/2019/08/programador.gif" width="200px"></p>
+</p>
+
+<p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Zurieel&theme=tokyonight&border=61dafb&hide_border=true" alt="emmanuelcruz" />
@@ -20,4 +24,3 @@ Hola, me llamo [Zuriel Martínez](https://www.instagram.com/zuurieeel?r=nametag)
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Zurieel&theme=react-dark" width="100%"/>
 </p>
-
