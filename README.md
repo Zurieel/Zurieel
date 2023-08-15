@@ -1,6 +1,6 @@
 # Sobre mi!
 
-Hola, me llamo [Zuriel Martínez](https://www.instagram.com/zuurieeel?r=nametag) y soy estudiante de la carrera de Ciencias de la Computación.
+Hola, me llamo [Zuriel Martínez](https://instagram.com/zuurieel?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) y soy estudiante de la carrera de Ciencias de la Computación.
 
 <div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lvZm4zZnZkYWY4cTFmcHd0MHhncjlhMmMzcWlhMjd5dGV3MW1laSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"></div>
 
